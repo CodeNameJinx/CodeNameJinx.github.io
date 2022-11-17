@@ -1,4 +1,4 @@
-# Dungeon-Code
+# [Dungeon-Code](https://codenamejinx.github.io/)
 
 "Dungeon Code" will be an interactive game of sorts, inspired heavily by my love of Critical Role and the fantasy and sci-fi genres.
 
