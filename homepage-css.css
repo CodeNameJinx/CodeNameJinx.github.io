@@ -49,6 +49,7 @@ img.character-four{
 
 img:hover {
   filter: drop-shadow(0 0 30px #333);
+  
 }
 
 form {
@@ -78,6 +79,8 @@ input{
 
 }
 
+
+
 button {
 
     font-size: 20;
@@ -87,6 +90,23 @@ button {
     height: 35;
     color: white;
     margin-bottom: 5;
+    box-shadow: 3px 5px 5px rgb(40, 40, 40);
+    cursor: pointer;
+    
+}
+
+button:hover {
+
+    box-shadow: 3px 5px 5px rgb(79, 79, 79);
+
+}
+
+button:active {
+
+    margin-top: 3px;
+    margin-bottom: 2px;
+    box-shadow: none;
+    
 }
 
 input:-webkit-autofill,
