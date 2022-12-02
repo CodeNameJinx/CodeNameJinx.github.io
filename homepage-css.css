@@ -49,6 +49,7 @@ img.character-four{
 
 img:hover {
   filter: drop-shadow(0 0 30px #333);
+  cursor: pointer;
   
 }
 
